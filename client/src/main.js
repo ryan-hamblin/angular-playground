@@ -2,6 +2,6 @@
 
 
   module.exports = function($scope) {
-  	$scope.welcome = 'Welcome to your App!';
-  	$scope.buttonText = 'This is your Button';
+  	$scope.welcome = 'Please Login: ';
+  	$scope.buttonText = 'Login';
   };
